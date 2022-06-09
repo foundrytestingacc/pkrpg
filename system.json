@@ -1,0 +1,26 @@
+{
+  "name": "pokemon",
+  "title": "Pokemon",
+  "description": "Pokemon!",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "author": "Elliot",
+  "esmodules": ["module/pokemon.mjs"],
+  "styles": ["css/pokemon.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}

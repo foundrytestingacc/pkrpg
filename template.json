@@ -1,0 +1,19 @@
+{
+  "Actor": {
+    "types": ["character", "npc", "pokemon"],
+    "templates": {
+      "base": {
+        "name": ""
+      }
+    },
+    "character": {
+      "templates": ["base"]
+    },
+    "npc": {
+      "templates": ["base"]
+    },
+    "pokemon": {
+      "templates": ["base"]
+    }
+  }
+}

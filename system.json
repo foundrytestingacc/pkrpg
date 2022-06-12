@@ -20,7 +20,7 @@
   "gridDistance": 5,
   "gridUnits": "ft",
   "url": "",
-  "manifest": "https://raw.githubusercontent.com/lewell94/pkrpg/master/system.json?token=GHSAT0AAAAAABVRHCIGYBPWTR3Y52AJSIRIYVGDZTQ",
-  "download": "https://github.com/lewell94/pkrpg/zipball/master/",
+  "manifest": "https://github.com/foundrytestingacc/pkrpg/releases/latest/download/system.json",
+  "download": "https://github.com/foundrytestingacc/pkrpg/releases/latest/download/system.zip",
   "license": "LICENSE.txt"
 }

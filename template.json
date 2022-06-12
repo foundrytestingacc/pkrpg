@@ -4,10 +4,27 @@
     "templates": {
       "base": {
         "name": ""
+      },
+      "abilities": {
+        "athletics": { "min": 1, "value": 10, "max": 20 },
+        "battling": { "min": 1, "value": 10, "max": 20 },
+        "charm": { "min": 1, "value": 10, "max": 20 },
+        "command": { "min": 1, "value": 10, "max": 20 },
+        "focus": { "min": 1, "value": 10, "max": 20 },
+        "guile": { "min": 1, "value": 10, "max": 20 },
+        "intelligence": { "min": 1, "value": 10, "max": 20 },
+        "intimidation": { "min": 1, "value": 10, "max": 20 },
+        "intuition": { "min": 1, "value": 10, "max": 20 },
+        "medicine": { "min": 1, "value": 10, "max": 20 },
+        "perception": { "min": 1, "value": 10, "max": 20 },
+        "pokemonKnowledge": { "min": 1, "value": 10, "max": 20 },
+        "stealth": { "min": 1, "value": 10, "max": 20 },
+        "sutvival": { "min": 1, "value": 10, "max": 20 },
+        "technologicalUnderstanding": { "min": 1, "value": 10, "max": 20 }
       }
     },
     "character": {
-      "templates": ["base"]
+      "templates": ["base", "abilities"]
     },
     "npc": {
       "templates": ["base"]

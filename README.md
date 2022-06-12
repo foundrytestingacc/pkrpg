@@ -1,3 +1,6 @@
+https://foundryvtt.wiki/en/development/guides/SD-tutorial
+https://www.reddit.com/r/FoundryVTT/comments/ik4vmb/new_series_covering_basic_foundry_vtt_development/
+
 # Boilerplate System
 
 This system is a boilerplate system that you can use as a starting point for building your own custom systems. It's similar to Simple World-building, but has examples of creating attributes in code rather than dynamically through the UI.
